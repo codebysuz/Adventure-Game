@@ -1,2 +1,3 @@
 # Adventure-Game
-I will place my favorite Python adventure games here.
+
+This python adventure game takes user inputs and creates a unique gaming experience with each play using the "random" module and incorporating random elements.
